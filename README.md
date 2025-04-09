@@ -1,1 +1,1 @@
-# This is my 1st Tailwind project.
+# This is my first full website project using Tailwind.
